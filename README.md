@@ -52,8 +52,8 @@ This is not just a return to the glory days. This is a new standard.
 *   **Chart:** [DexScreener](https://dexscreener.com/solana/anaydbfcakdjkaz5aewx25itmxj1p6ntndd53gt7ckj5)
 *   **Twitter:** [@VULTA4U](https://x.com/VULTA4U)
 *   **Founder:** [@cointelfro](https://x.com/cointelfro)
-*   **LP Lock Proof:** [RugCheck](https://rugcheck.xyz/tokens/BntREEXTtVQLN5UkXdTM772ot7u2bAR6pAd9UoGXTNLS) // *Transaction Hash: [TX_HASH]([5Bz5M3guk5wYTfUVXHYXhXzLgqtP3JihoqRVRSE1JPHtS7HnGZPTdBAtq8RkSUzsgDU5uhz1Lb7W3wfyPNxDG77a](https://solscan.io/tx/5Bz5M3guk5wYTfUVXHYXhXzLgqtP3JihoqRVRSE1JPHtS7HnGZPTdBAtq8RkSUzsgDU5uhz1Lb7W3wfyPNxDG77a))*
-*   **Tax Revocation Proof:** [Solscan](https://solscan.io/tx/3xZV7nrT7oL8R421u6woja5TS7rn1qQFYA9paqMhWWkjNzJESusvMqz3f8NRL6CXNKCBECBimutwdz5hAacTAKpw) // *Transaction Hash: [TX_HASH](3xZV7nrT7oL8R421u6woja5TS7rn1qQFYA9paqMhWWkjNzJESusvMqz3f8NRL6CXNKCBECBimutwdz5hAacTAKpw)*
+*   **LP Lock Proof:** [RugCheck](https://rugcheck.xyz/tokens/BntREEXTtVQLN5UkXdTM772ot7u2bAR6pAd9UoGXTNLS) // *Transaction Hash: [TX_HASH](https://solscan.io/tx/5Bz5M3guk5wYTfUVXHYXhXzLgqtP3JihoqRVRSE1JPHtS7HnGZPTdBAtq8RkSUzsgDU5uhz1Lb7W3wfyPNxDG77a)*
+*   **Tax Revocation Proof:** *Transaction Hash: [TX_HASH](https://solscan.io/tx/3xZV7nrT7oL8R421u6woja5TS7rn1qQFYA9paqMhWWkjNzJESusvMqz3f8NRL6CXNKCBECBimutwdz5hAacTAKpw)*
 *   **Treasury Wallet:** `4nZ44DaQ2uWLyrniiK1S5jcQ46oWd6vxVFPoC8ZgiMyX`
 
 > **The machine is built. The rules are final. The build continues.**
