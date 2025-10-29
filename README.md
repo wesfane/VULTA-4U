@@ -20,7 +20,7 @@ $4U is a self-funding, self-governing economic engine. It is a smart contract co
 
 [Volume] -> [3% Transaction Tax] -> [Treasury] -> [Value Creation] -> [Confidence] -> [Volume]
 
-### The Treasury Allocation (Automatic & Immutable)
+### The Treasury Allocation
 
 *   **50% to Liquidity Pool Growth:** Deepens the pool, raises the price floor, and stabilizes the asset for everyone.
 *   **30% to Buybacks & Burns:** Creates constant deflationary pressure, increasing token scarcity and value.
